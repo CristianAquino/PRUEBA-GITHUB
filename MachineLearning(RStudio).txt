@@ -1,0 +1,11 @@
+https://ricovictor.com/index.php/2020/05/22/clustering-metodo-k-means-en-python/
+https://fhernanb.github.io/libro_regresion/selec.html
+https://towardsdatascience.com/stepwise-regression-tutorial-in-python-ebf7c782c922
+https://www.statology.org/stepwise-regression-r/
+https://aprendeia.com/evaluando-el-error-en-los-modelos-de-regresion/
+https://tulengua.es/number-text/
+https://rpubs.com/Joaquin_AR/242707
+https://rpubs.com/Joaquin_AR/226291#:~:text=En%20R%20la%20funci%C3%B3n%20step,del%20m%C3%A9todo%20paso%20a%20paso.
+http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/154-stepwise-regression-essentials-in-r/
+https://www.youtube.com/watch?v=H7KLTpf2WYQ
+https://rpubs.com/Joaquin_AR/242707
